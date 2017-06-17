@@ -17,4 +17,31 @@ h1 {
 	font-family: Helvetica;
 	font-size: 18px;
 	color: white;
+	
+}
+
+.footer {
+	color: White;
+	background-color: dimgray;
+	text-align-last: left;
+	
+}
+
+.footer p {
+	font-size: 11px;
+}
+a {
+	color: white;
+}
+
+.footer a {
+	font-size: 18px;
+}
+
+a:link {
+	color: white;
+}
+
+a:visited {
+	color: white;
 }
