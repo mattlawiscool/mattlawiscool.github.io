@@ -1,5 +1,6 @@
 * {
 	text-align: center;
+	font-family: Helvetica;
 }
 h1 {
 	font-family: helvetica;
@@ -10,4 +11,10 @@ h1 {
 
 .hero {
 	background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+}
+
+.nav {
+	font-family: Helvetica;
+	font-size: 18px;
+	color: white;
 }
