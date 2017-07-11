@@ -211,7 +211,7 @@ a:hover {
 
 /*Mobile*/
 @media only screen and (max-width: 760px) {
-  .left-col {
+  .dk {
     display: none;
   }
 
@@ -310,4 +310,44 @@ a:hover {
   .container-flex { 
     flex-direction: column;
   }
+}
+
+/*Thesis almost there!*/
+.thesis-flex {
+  display: flex;
+}
+
+.alt-small {
+  border: none;
+}
+
+.alt-right-col {
+  border: none;
+}
+
+.mobile-video{
+  display: none;
+}
+
+@media only screen and (max-width: 760px) {
+  .thesis-flex {
+    display: none;
+  }
+
+  .mobile-video {
+    display: inline-flex;
+  }
+}
+
+/*Footer*/
+footer {
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  border-top: 2px solid #D8D8D8;
+  padding-top: 2rem;
+}
+
+.copyright {
+  padding-left: 1.5rem;
 }
