@@ -56,7 +56,7 @@ a:hover {
 
 /*mobile formatting*/
 
-@media only screen and (max-width: 760px) {
+@media only screen and (max-width: 480px) {
   .mobile-nav {
     display: inline;
   }
@@ -133,7 +133,7 @@ a:hover {
   text-align: center;
 }
 /*Mobile banner*/
-@media only screen and (max-width: 760px) {
+@media only screen and (max-width: 480px) {
   .banner-image {
     display: none;
   }
@@ -210,7 +210,7 @@ a:hover {
 }
 
 /*Mobile*/
-@media only screen and (max-width: 760px) {
+@media only screen and (max-width: 480px) {
   .dk {
     display: none;
   }
@@ -292,7 +292,7 @@ a:hover {
 }
 
 /*Mobile*/
-@media only screen and (max-width: 760px) {
+@media only screen and (max-width: 480px) {
   .dk img, .dk p { 
     display: none;
 
@@ -329,7 +329,7 @@ a:hover {
   display: none;
 }
 
-@media only screen and (max-width: 760px) {
+@media only screen and (max-width: 480px) {
   .thesis-flex {
     display: none;
   }
